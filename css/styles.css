@@ -20,7 +20,7 @@ body {
 h1,
 h2,
 h3 {
-    color: var(--color-headings)
+    color: var(--color-headings);
     margin-bottom: 1rem;
 }
 
@@ -86,3 +86,4 @@ a {
         font-size: 1.5rem;
     }
 }
+
